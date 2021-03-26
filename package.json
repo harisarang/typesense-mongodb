@@ -1,0 +1,24 @@
+{
+  "name": "typesense-mongodb",
+  "version": "1.0.0",
+  "description": "Index documents in MongoDB with Typesense",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarisaranG/typesense-mongodb.git"
+  },
+  "author": "HarisaranG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarisaranG/typesense-mongodb/issues"
+  },
+  "homepage": "https://github.com/HarisaranG/typesense-mongodb#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.10.2",
+    "mongodb": "^3.6.5",
+    "typesense": "^0.11.1"
+  }
+}
